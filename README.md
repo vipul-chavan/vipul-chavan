@@ -9,8 +9,7 @@
 
 * Frontend and Backend Web Development
 * Penetration Testing
-* Flutter
-* Data Science
+* Java Full Stack 
 * Machine Learning
 
 ## Technical Knowledge
